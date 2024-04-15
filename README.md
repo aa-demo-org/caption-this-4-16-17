@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: April 16 - 17
+- Facilitator: @Andrew Albers
 
 ## Class Resources
 
